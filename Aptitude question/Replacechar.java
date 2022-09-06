@@ -6,6 +6,17 @@ class Replacechar{
 		   
 		   System.out.println(replaceString);
 		   
+                 String s2 ="HELLO";
+		   String B = s2.replace ("HELLO","HY");
+		   
+		   System.out.println(B);
+
+                 String s3 ="how you doing";
+		   String D = s3.replace ("how","what");
+		   
+		   System.out.println(D);
+		   
+		   
 		}
 		
 	}
