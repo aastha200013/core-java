@@ -7,7 +7,7 @@ class Hospital {
 		String [] DrName = {"Pranesh" , "Rajendra" ,"Kalappa"};
 		short noOfNurses = 80;
 		short noOfRooms = 160;
-        short noOfPatience = 140 ;
+                short noOfPatience = 140 ;
 		byte ambulance = 4;
 		byte Experiance = 8;
 		
